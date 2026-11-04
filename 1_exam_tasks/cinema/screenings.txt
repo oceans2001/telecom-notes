@@ -1,0 +1,3 @@
+Dune;Hall 1;17:30;5
+Oppenheimer;Hall 2;19:00;3
+Barbie;Hall 1;20:45;0

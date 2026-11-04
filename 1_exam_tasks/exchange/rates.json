@@ -1,0 +1,5 @@
+{
+  "EUR": {"rate": 395.5, "reserve": 100.0},
+  "USD": {"rate": 362.0, "reserve": 50.0},
+  "GBP": {"rate": 461.2, "reserve": 0.0}
+}
